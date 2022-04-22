@@ -10,8 +10,8 @@ Takım İsmi
 
 | Takım Elemanları | Rolü |
 | ------------- | ------------- |
-| Eren Bacaksız  |  Product Owner |
-| Simay Karabunar | Scrum Master |
+| Simay Karabunar  |  Product Owner |
+| Eren Bacaksız | Scrum Master |
 | Batuhan Karaca | Team Member/Developer |
 | Neslişah Öztürk | Team Member/Developer |
 | Halil Mete Uysal | Team Member/Developer |
