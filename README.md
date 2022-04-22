@@ -41,14 +41,14 @@ Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere gör
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.</br>
 
-## Daily Scrum: 
+## Daily Scrum 
 Daily Scrum toplantılarının zamansal sebeplerden ötürü - üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats</br>
 
-## Sprint board update: Sprint board screenshotları:</br>
+### Sprint board update: Sprint board screenshotları</br>
 Ürün Durumu: Ekran görüntüleri:</br>
 Sprint Review:</br> Alınan kararlar:</br> Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir.</br> Sprint Review katılımcıları: ......</br>
 
-## Sprint Retrospective</br>
+### Sprint Retrospective</br>
 
 Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
 Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
