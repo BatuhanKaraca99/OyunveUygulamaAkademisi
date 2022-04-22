@@ -8,7 +8,9 @@ Takım Elemanları
 Eren Bacaksız: Product Owner
 Simay Karabunar: Scrum Master
 Batuhan Karaca: Team Member/Developer
+Neslişah Öztürk: Team Member/Developer 
 Halil Mete Uysal: Team Member/Developer
+
 Ürün İsmi
 --Game App--
 
