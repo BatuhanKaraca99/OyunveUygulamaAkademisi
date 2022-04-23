@@ -28,6 +28,7 @@ Takım İsmi
 </details>
 
 Product Backlog URL</br>
+https://trello.com/b/5lvTM5BF/tak%C4%B1m-80-girift </br>
 Miro Backlog Board
 
 # Sprint 1</br>
