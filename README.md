@@ -29,7 +29,9 @@ Takım İsmi
 
 Product Backlog URL</br>
 https://trello.com/b/5lvTM5BF/tak%C4%B1m-80-girift </br>
-Miro Backlog Board
+Gantt Şeması(Güncellenecek)
+[Gantt Grifit.xlsx](https://github.com/BatuhanKaraca99/OyunveUygulamaAkademisi/files/8557086/Gantt.Grifit.xlsx)
+
 
 # Sprint 1</br>
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.</br>
