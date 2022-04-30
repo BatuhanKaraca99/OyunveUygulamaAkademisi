@@ -5,7 +5,7 @@ Takım İsmi
 
 | Ürün İle İlgili Bilgiler |
 | -------------|
-| Platformer,2d,Hibrit, Sıra tabanlı, Fantastik/Gerçekçi |
+|2d,Rpg, Sıra tabanlı|
 
 
 | Takım Elemanları | Rolü |
@@ -23,7 +23,7 @@ Takım İsmi
 
 <details><summary>Ürün Özellikleri</summary>
 <p>
----
+Bir askerin macerasını anlatan 2D Rpg türünde oyunu
 </p>
 </details>
 
