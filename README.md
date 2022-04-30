@@ -17,7 +17,7 @@ Takım İsmi
 | Halil Mete Uysal | Team Member/Developer |
 
 ## Ürün İsmi </br>
---Girift--
+Girift
 
 ## Ürün Açıklaması</br>
 
@@ -34,6 +34,14 @@ Gantt Şeması(Güncellenecek)
 
 
 # Sprint 1</br>
+*Discord üzerinden ilk toplantı yapıldı. 
+*Görev dağılımı, oyun türü, takım ve oyun ismi belilrendi. 
+*Toplantı gün ve saatleri belirlendi.
+*Sprint Notları, User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+*Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+*Puan tamamlama mantığı, toplamda proje boyunca tamamlanması gereken - puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından - ile başlaması gerektiğine karar verildi.
+*Backlog düzeni ve story seçimleri için, Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+*Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.</br>
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</br>
