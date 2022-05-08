@@ -43,6 +43,7 @@ Takım-80 Drive Linki: https://drive.google.com/drive/folders/1AAkkTASfU06M7Ya3_
 *Puan tamamlama mantığı, toplamda proje boyunca tamamlanması gereken - puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından - ile başlaması gerektiğine karar verildi.</br>
 *Backlog düzeni ve story seçimleri için, Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</br>
 *Story'ler yapılacak işlere (tasklere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.</br>
+*Temel Karakter animasyonları yapıldı.
 Sprint Notları: User Story'ler product backlogların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.</br>
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</br>
@@ -54,7 +55,7 @@ Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere gör
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.</br>
 
 ## Daily Scrum 
-Daily Scrum toplantılarının zamansal sebeplerden ötürü - üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats</br>
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp,Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats</br>
 
 ### Sprint board update: Sprint board screenshotları</br>
 Ürün Durumu: Ekran görüntüleri:</br>
