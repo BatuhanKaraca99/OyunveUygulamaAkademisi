@@ -46,7 +46,7 @@ Takım-80 Drive Linki: https://drive.google.com/drive/folders/1AAkkTASfU06M7Ya3_
 *Temel Karakter animasyonları yapıldı.
 Sprint Notları: User Story'ler product backlogların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.</br>
 
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</br>
+Sprint içinde tamamlanması tahmin edilen puan: 30 Puan</br>
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken - puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından - ile başlaması gerektiğine karar verildi.</br>
 
