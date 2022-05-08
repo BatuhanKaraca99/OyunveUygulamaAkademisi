@@ -60,7 +60,10 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp,Discord ü
 ### Sprint board update: Sprint board screenshotları</br>
 Ürün Durumu: Ekran görüntüleri:
 
-https://user-images.githubusercontent.com/82118793/167311900-0e646890-6393-45a7-99d6-71b73a75d686.mp4
+ilk karakter animasyonumuz: https://user-images.githubusercontent.com/82118793/167311900-0e646890-6393-45a7-99d6-71b73a75d686.mp4
+whatsapp konuşmalarımız: ![screenshot whatsapp](https://user-images.githubusercontent.com/82118793/167312317-1d435d6f-3da2-463f-b6fc-dafc78ead667.png)
+discord konuşmalarımız: ![dc screenshot](https://user-images.githubusercontent.com/82118793/167312458-4a060e26-01c4-46d1-bd53-643d4b4d9d67.jpg)
+
 
 
 </br>
