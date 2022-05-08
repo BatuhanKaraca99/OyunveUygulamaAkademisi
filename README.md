@@ -53,9 +53,9 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp,Discord ü
 ### Sprint board update: Sprint board screenshotları</br>
 Ürün Durumu - Ekran görüntüleri:</br>
 </br>
-ilk karakter animasyonumuz: https://user-images.githubusercontent.com/82118793/167311900-0e646890-6393-45a7-99d6-71b73a75d686.mp4</br>
-whatsapp konuşmalarımız: ![screenshot whatsapp](https://user-images.githubusercontent.com/82118793/167312317-1d435d6f-3da2-463f-b6fc-dafc78ead667.png)</br>
-discord konuşmalarımız: ![dc screenshot](https://user-images.githubusercontent.com/82118793/167312458-4a060e26-01c4-46d1-bd53-643d4b4d9d67.jpg)</br>
+İlk karakter animasyonumuz: https://user-images.githubusercontent.com/82118793/167311900-0e646890-6393-45a7-99d6-71b73a75d686.mp4</br>
+Whatsapp konuşmalarımız: ![screenshot whatsapp](https://user-images.githubusercontent.com/82118793/167312317-1d435d6f-3da2-463f-b6fc-dafc78ead667.png)</br>
+Discord konuşmalarımız: ![dc screenshot](https://user-images.githubusercontent.com/82118793/167312458-4a060e26-01c4-46d1-bd53-643d4b4d9d67.jpg)</br>
 
 Sprint Review:</br> Alınan kararlar:</br> Belirlediğimiz şekilde görev dağılımlarıyla devam edip, map oluşturma ve karakter animasyonlarına öncelik verilmesine karar verildi. </br> Sprint Review katılımcıları: Batuhan Karaca, Neslişah Öztürk, Simay Karabunar, Eren Bacaksız, Halil Mete Uysal. </br>
 
