@@ -69,6 +69,10 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp,Discord ü
 ![5](https://user-images.githubusercontent.com/82118793/167311765-2ccf923e-23dd-481b-a79e-f2737b974604.jpg)
 ![6](https://user-images.githubusercontent.com/82118793/167311775-fbc2dcca-88a5-4c8f-b9fe-a79341353305.jpg)
 
+
+https://user-images.githubusercontent.com/82118793/167311900-0e646890-6393-45a7-99d6-71b73a75d686.mp4
+
+
 </br>
 
 Sprint Review:</br> Alınan kararlar:</br> Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir.</br> Sprint Review katılımcıları: ......</br>
