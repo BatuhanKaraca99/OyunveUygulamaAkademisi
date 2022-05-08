@@ -59,16 +59,6 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp,Discord ü
 
 ### Sprint board update: Sprint board screenshotları</br>
 Ürün Durumu: Ekran görüntüleri:
-![map](https://user-images.githubusercontent.com/82118793/167311165-3cbc01d5-d11c-45f1-abf1-f2f64f05506d.PNG)
-![My_project_1_-_SampleScene_-_PC_Mac__Linux_Standalone_-_Unity_2020 3 23f1_Personal___DX11__7 05 2022_19_33_48](https://user-images.githubusercontent.com/82118793/167311167-157ca164-fd55-4cc0-870c-519f38b8e487.png)
-![51](https://user-images.githubusercontent.com/82118793/167311173-a20b82a4-a412-4c86-a2fa-73a3e725ba4e.PNG)
-![1](https://user-images.githubusercontent.com/82118793/167311733-8a3259d0-69ef-4237-a1a9-c7d356f07266.jpg)
-![3](https://user-images.githubusercontent.com/82118793/167311742-0ece318f-d62d-47ce-98b2-df31682a0c0a.jpg)
-![2](https://user-images.githubusercontent.com/82118793/167311748-5535f217-2e32-4ed2-8e0a-211f64f20573.jpg)
-![4](https://user-images.githubusercontent.com/82118793/167311754-3e626e27-9396-40d3-aece-9f4db05515ca.jpg)
-![5](https://user-images.githubusercontent.com/82118793/167311765-2ccf923e-23dd-481b-a79e-f2737b974604.jpg)
-![6](https://user-images.githubusercontent.com/82118793/167311775-fbc2dcca-88a5-4c8f-b9fe-a79341353305.jpg)
-
 
 https://user-images.githubusercontent.com/82118793/167311900-0e646890-6393-45a7-99d6-71b73a75d686.mp4
 
