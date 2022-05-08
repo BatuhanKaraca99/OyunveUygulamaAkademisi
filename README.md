@@ -42,7 +42,7 @@ Takım-80 Drive Linki: https://drive.google.com/drive/folders/1AAkkTASfU06M7Ya3_
 *Sprint içinde tamamlanması tahmin edilen puan: 100 Puan</br>
 *Puan tamamlama mantığı, toplamda proje boyunca tamamlanması gereken - puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından - ile başlaması gerektiğine karar verildi.</br>
 *Backlog düzeni ve story seçimleri için, Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.</br>
-*Story'ler yapılacak işlere (tasklere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.</br>
+*Story'ler yapılacak işlere (tasklere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılmakta olan işleri (task) gösterirken, mavi item'lar yapılacak işleri temsil etmektedir.</br>
 *Temel Karakter animasyonları yapıldı.
 Sprint Notları: User Story'ler product backlogların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.</br>
 
