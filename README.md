@@ -29,9 +29,9 @@ Bir askerin macerasını anlatan 2D Top Down Rpg türünde oyun
 
 Product Backlog URL</br>
 https://trello.com/b/5lvTM5BF/tak%C4%B1m-80-girift </br>
-Gantt Şeması(Güncellenecek)
-[Gantt Grifit.xlsx](https://github.com/BatuhanKaraca99/OyunveUygulamaAkademisi/files/8557086/Gantt.Grifit.xlsx)
-Takım-80 Drive Linki: https://drive.google.com/drive/folders/1AAkkTASfU06M7Ya3_8ZXa0cLd_LZ-QEj 
+Gantt Şeması(Güncellenecek)</br>
+[Gantt Grifit.xlsx](https://github.com/BatuhanKaraca99/OyunveUygulamaAkademisi/files/8557086/Gantt.Grifit.xlsx)</br>
+Takım-80 Drive Linki: https://drive.google.com/drive/folders/1AAkkTASfU06M7Ya3_8ZXa0cLd_LZ-QEj </br>
 
 
 # Sprint 1</br>
