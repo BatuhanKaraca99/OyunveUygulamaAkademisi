@@ -5,7 +5,7 @@ Takım İsmi
 
 | Ürün İle İlgili Bilgiler |
 | -------------|
-|2d,Rpg, Sıra tabanlı|
+|2d,Top-Down-Rpg, Sıra tabanlı|
 
 
 | Takım Elemanları | Rolü |
@@ -23,7 +23,7 @@ Girift
 
 <details><summary>Ürün Özellikleri</summary>
 <p>
-Bir askerin macerasını anlatan 2D Rpg türünde oyunu
+Bir askerin macerasını anlatan 2D Top Down Rpg türünde oyun
 </p>
 </details>
 
@@ -51,17 +51,17 @@ Sprint Notları: User Story'ler product backlogların içine yazılmıştır. Pr
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp,Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats</br>
 
 ### Sprint board update: Sprint board screenshotları</br>
-Ürün Durumu: Ekran görüntüleri:
+Ürün Durumu: Ekran görüntüleri:</br>
 
-ilk karakter animasyonumuz: https://user-images.githubusercontent.com/82118793/167311900-0e646890-6393-45a7-99d6-71b73a75d686.mp4
-whatsapp konuşmalarımız: ![screenshot whatsapp](https://user-images.githubusercontent.com/82118793/167312317-1d435d6f-3da2-463f-b6fc-dafc78ead667.png)
+ilk karakter animasyonumuz: https://user-images.githubusercontent.com/82118793/167311900-0e646890-6393-45a7-99d6-71b73a75d686.mp4</br>
+whatsapp konuşmalarımız: ![screenshot whatsapp](https://user-images.githubusercontent.com/82118793/167312317-1d435d6f-3da2-463f-b6fc-dafc78ead667.png)</br>
 discord konuşmalarımız: ![dc screenshot](https://user-images.githubusercontent.com/82118793/167312458-4a060e26-01c4-46d1-bd53-643d4b4d9d67.jpg)</br>
 
 Sprint Review:</br> Alınan kararlar:</br> Belirlediğimiz şekilde görev dağılımlarıyla devam edip, map oluşturma ve karakter animasyonlarına öncelik verilmesine karar verildi. </br> Sprint Review katılımcıları: Batuhan Karaca, Neslişah Öztürk, Simay Karabunar, Eren Bacaksız, Halil Mete Uysal. </br>
 
 ### Sprint Retrospective</br>
 
-Game Art'ların tamamlanması için süremiz yeterli olmadığından ve okul dönemi içerisinde olunduğumuz için bu konuda yeterli destek alınamadığından hazır assetler kullanılmasına karar verildi. Bu neticede hikayemizde de bazı değişikliklere gidildi.
+Game Art'ların tamamlanması için süremiz yeterli olmadığından ve okul dönemi içerisinde olunduğumuz için bu konuda yeterli destek alınamadığından hazır assetler kullanılmasına karar verildi. Bu neticede hikayemizde de bazı değişikliklere gidildi.</br>
 
 N/A
 
