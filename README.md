@@ -57,7 +57,7 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp,Discord ü
 Whatsapp konuşmalarımız: ![screenshot whatsapp](https://user-images.githubusercontent.com/82118793/167312317-1d435d6f-3da2-463f-b6fc-dafc78ead667.png)</br>
 Discord konuşmalarımız: ![dc screenshot](https://user-images.githubusercontent.com/82118793/167312458-4a060e26-01c4-46d1-bd53-643d4b4d9d67.jpg)</br>
 
-Sprint Review:</br> Alınan kararlar:</br> Belirlediğimiz şekilde görev dağılımlarıyla devam edip, map oluşturma ve karakter animasyonlarına öncelik verilmesine karar verildi. </br> Sprint Review katılımcıları: Batuhan Karaca, Neslişah Öztürk, Simay Karabunar, Eren Bacaksız, Halil Mete Uysal. </br>
+Sprint Review</br> Alınan kararlar:</br> Belirlediğimiz şekilde görev dağılımlarıyla devam edip, map oluşturma ve karakter animasyonlarına öncelik verilmesine karar verildi. </br> Sprint Review katılımcıları: Batuhan Karaca, Neslişah Öztürk, Simay Karabunar, Eren Bacaksız, Halil Mete Uysal. </br>
 
 ### Sprint Retrospective</br>
 
