@@ -65,25 +65,25 @@ Game Art'ların tamamlanması için süremiz yeterli olmadığından ve okul dö
 
 N/A
 
-# Sprint 2
-*Oyun haritası üzerine konuşuldu.
-*Mekan tasaarımı için araştırmalar yapıldı.
-*Mekan için esinlemeler yapıldı, buna göre mekan oluşturulmaya başlandı. 
-*Asset araştırması yapıldı.
-*Bazı aksilikler sebebiyle bazı toplantılar ertelenmek zorunda kaldı. 
-*Oyun müziği için araştırmalara başlandı.  
+# Sprint 2</br> 
+*Oyun haritası üzerine konuşuldu.</br> 
+*Mekan tasaarımı için araştırmalar yapıldı.</br> 
+*Mekan için esinlemeler yapıldı, buna göre mekan oluşturulmaya başlandı. </br> 
+*Asset araştırması yapıldı.</br> 
+*Bazı aksilikler sebebiyle bazı toplantılar ertelenmek zorunda kaldı. </br> 
+*Oyun müziği için araştırmalara başlandı.  </br> 
 
-## Daily Scrum 
-Yoğunluk ve hastalık sebebiyle görev akışı yavaş ilerledi. Toplantılara Whatsapp ve Discord üzerinden devam edildi. 
+## Daily Scrum </br> 
+Yoğunluk ve hastalık sebebiyle görev akışı yavaş ilerledi. Toplantılara Whatsapp ve Discord üzerinden devam edildi. </br> 
 </br>
 
 ### Sprint board update: Sprint board screenshotları
 Ürün Durumu - WhatsApp konuşmalarımız- Discord konuşmalarımız; ![image](https://user-images.githubusercontent.com/104224000/169710038-cbf1f260-d8d9-4cfe-abbf-3a69f8f8f07e.png)
 
 #### Sprint Review Alınan kararlar:</br> 
-Planlanan şekilde görevlendirmelere ve uygulamalara devam edildi. Harita üzerine yoğunlaşıldı. 
-Sprint Review katılımcıları: Batuhan Karaca, Neslişah Öztürk, Simay Karabunar, Eren Bacaksız, Halil Mete Uysal.
-
+Planlanan şekilde görevlendirmelere ve uygulamalara devam edildi. Harita üzerine yoğunlaşıldı. </br> 
+Sprint Review katılımcıları: Batuhan Karaca, Neslişah Öztürk, Simay Karabunar, Eren Bacaksız, Halil Mete Uysal.</br> 
+</br> 
 ### Sprint Retrospective</br>
 Kararsız kalınan bazı durumlar takımı geriye attığı için çalışmalar yavaşladı. Bu neticede, ilerideki sprint daha odaklı çalışabilmek adına motivelendik.  
 </br>
