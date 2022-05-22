@@ -73,7 +73,8 @@ N/A
 *Bazı aksilikler sebebiyle bazı toplantılar ertelenmek zorunda kaldı. </br> 
 *Oyun müziği için araştırmalara başlandı.  </br> 
 ![story](https://user-images.githubusercontent.com/47457138/169710721-759020ba-e689-4a4c-b2ad-34a3bddf6ef1.PNG)
-
+Toplantı Raporu
+[toplantı raporu.docx](https://github.com/BatuhanKaraca99/OyunveUygulamaAkademisi/files/8750094/toplanti.raporu.docx)
 
 ## Daily Scrum </br> 
 Yoğunluk ve hastalık sebebiyle görev akışı yavaş ilerledi. Toplantılara Whatsapp ve Discord üzerinden devam edildi. </br> 
