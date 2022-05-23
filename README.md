@@ -83,6 +83,8 @@ Yoğunluk ve hastalık sebebiyle görev akışı yavaş ilerledi. Toplantılara 
 ### Sprint board update: Sprint board screenshotları
 Ürün Durumu - WhatsApp konuşmalarımız- Discord konuşmalarımız; ![image](https://user-images.githubusercontent.com/104224000/169710038-cbf1f260-d8d9-4cfe-abbf-3a69f8f8f07e.png)
 User Story- ![Oyun türü belirle](https://user-images.githubusercontent.com/82118793/169713098-bd8360e8-3e8c-415c-9446-6c06fdf69b94.png)
+Oyun hikayesi senaryolaştırıldı ve yazılıyor - [Duzeltme (1).docx](https://github.com/BatuhanKaraca99/OyunveUygulamaAkademisi/files/8756985/Duzeltme.1.docx)
+
 
 #### Sprint Review Alınan kararlar:</br> 
 Planlanan şekilde görevlendirmelere ve uygulamalara devam edildi. Harita üzerine yoğunlaşıldı. </br> 
