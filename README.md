@@ -70,6 +70,8 @@ N/A
 *Mekan tasaarımı için araştırmalar yapıldı.</br> 
 *Mekan için esinlemeler yapıldı, buna göre mekan oluşturulmaya başlandı. </br> 
 *Asset araştırması yapıldı.</br> 
+Sprint içinde tamamlanması tahmin edilen puan: 25 Puan</br>
+*2.sprintin 30 puan ile başlaması gerektiğine karar verildi.</br>
 *Bazı aksilikler sebebiyle bazı toplantılar ertelenmek zorunda kaldı. </br> 
 *Oyun müziği için araştırmalara başlandı.  </br> 
 ![story](https://user-images.githubusercontent.com/47457138/169710721-759020ba-e689-4a4c-b2ad-34a3bddf6ef1.PNG)
