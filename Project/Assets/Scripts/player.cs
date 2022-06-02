@@ -10,11 +10,13 @@ public class player : MonoBehaviour
     public Animator playerAnimator;
     public float x;
     public float y;
+    AudioSource audioData;
     // Start is called before the first frame update
     private void Start()
     {
         boxCollider = GetComponent<BoxCollider2D>();
         playerAnimator = GetComponent<Animator>();
+        audioData = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -26,6 +28,7 @@ public class player : MonoBehaviour
     // Update is called once per frame
     private void FixedUpdate()
     {
+        audioData.Pause();
         x = Input.GetAxisRaw("Horizontal");
         y = Input.GetAxisRaw("Vertical");
         //Reset MoveDelta
@@ -33,9 +36,15 @@ public class player : MonoBehaviour
 
         //Swap sprite direction, right or left
         if (moveDelta.x > 0)
+        {
             transform.localScale = Vector3.one;
+            audioData.Play(0);
+        }
         else if (moveDelta.x < 0)
+        {
             transform.localScale = new Vector3(-1, 1, 1);
+            audioData.Play(0);
+        }
 
         //Move
         transform.Translate(moveDelta * Time.deltaTime*2);
