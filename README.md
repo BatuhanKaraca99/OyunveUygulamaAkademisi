@@ -29,6 +29,11 @@ Bir askerin macerasını anlatan 2D Top Down Rpg türünde oyun
 
 https://user-images.githubusercontent.com/47457138/171734117-b51edceb-89e0-4bad-820e-e9ae860bee03.mp4
 
+
+https://user-images.githubusercontent.com/47457138/171740537-49ff5ba9-5246-4bd4-b825-287564991069.mp4
+
+
+
 Product Backlog URL</br>
 https://trello.com/b/5lvTM5BF/tak%C4%B1m-80-girift </br>
 Gantt Şeması(Güncellenecek)</br>
