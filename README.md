@@ -15,6 +15,11 @@ Takım İsmi
 | Neslişah Öztürk | Team Member/Developer |
 | Halil Mete Uysal | Team Member/Developer |
 
+## Hedef Kitle </br>
+16 yaş ve üstü oyuncular</br>
+Retro 2D Top-Down RPG Oyun Sevenler</br>
+Rpgmaker tipi oyunseverler ve ağır tema hikayesi içeren oyunları sevenler</br>
+
 ## Ürün İsmi </br>
 Girift
 
