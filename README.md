@@ -113,7 +113,7 @@ Oyun içi durumlar 2: https://user-images.githubusercontent.com/47457138/1717405
 ### Sprint Retrospective</br>
 *Hazır assetler kullanmanın sıkıntılı yanlarını görmüş olduk.Düzgün bölümlemelerinin yapılmaması görüntü konusunda biraz bozulmalara yol açtı.İlk oyun tecrübemiz olduğu için bu tecrübeleri edinmemizin bizim zararımızdan çok faydamıza olduğunu düşünüyoruz.
 ### Kullandığımız Kaynaklar</br>
-0450am - airtone
-Footsteps on tall grass - mixkit
-postapo-lands-demo - szadiart
-Pixel-Art Soldier Girl Sprite pack - poohcom1
+0450am - airtone</br>
+Footsteps on tall grass - mixkit</br>
+postapo-lands-demo - szadiart</br>
+Pixel-Art Soldier Girl Sprite pack - poohcom1</br>
