@@ -5,8 +5,7 @@ Takım İsmi
 
 | Ürün İle İlgili Bilgiler |
 | -------------|
-|2d,Top-Down-Rpg, Sıra tabanlı|
-Oyunun son hali Project Branchındadır
+|2d,Top-Down-Rpg|
 
 | Takım Elemanları | Rolü |
 | ------------- | ------------- |
@@ -23,16 +22,9 @@ Girift
 
 <details><summary>Ürün Özellikleri</summary>
 <p>
-Bir askerin macerasını anlatan 2D Top Down Rpg türünde oyun
+Bir askerin macerasını anlatan 2D Top Down Rpg türünde oyun.WASD ya da ok tuşları ile oynanıyor.Kapanma sorunu yaşanırsa Alt+F4 kullanmanızı öneririz.
 </p>
 </details>
-
-https://user-images.githubusercontent.com/47457138/171734117-b51edceb-89e0-4bad-820e-e9ae860bee03.mp4
-
-
-https://user-images.githubusercontent.com/47457138/171740537-49ff5ba9-5246-4bd4-b825-287564991069.mp4
-
-
 
 Product Backlog URL</br>
 https://trello.com/b/5lvTM5BF/tak%C4%B1m-80-girift </br>
@@ -103,3 +95,17 @@ Sprint Review katılımcıları: Batuhan Karaca, Neslişah Öztürk, Simay Karab
 Kararsız kalınan bazı durumlar takımı geriye attığı için çalışmalar yavaşladı. Bu neticede, ilerideki sprint daha odaklı çalışabilmek adına motivelendik.  
 </br>
 # Sprint 3</br>
+*Oyunun haritası geliştirildi ve biraz daha zenginleştirildi.</br>
+*Oyundaki karaktere animasyon eklendi ve yürüme ayarları yapıldı.</br>
+*Oyunun releaseleri çıkarıldı.</br>
+*Oyuna ses ve müzik eklendi.</br>
+
+## Daily Scrum </br> 
+*En iyi Sprint dönemimiz bu dönemdi.Çünkü fiziksel olarak bir proje gerçekleştirebildik.Hataları tespit ederek düzeltmeye çalışıyoruz.
+
+### Sprint board update: Sprint board screenshotları</br>
+Ürün Durumu - Ekran görüntüleri:</br>
+</br>
+Oyun içi durumlar 1 :https://user-images.githubusercontent.com/47457138/171734117-b51edceb-89e0-4bad-820e-e9ae860bee03.mp4</br>
+Oyun içi durumlar 2: https://user-images.githubusercontent.com/47457138/171740537-49ff5ba9-5246-4bd4-b825-287564991069.mp4</br>
+### Sprint Retrospective</br>
