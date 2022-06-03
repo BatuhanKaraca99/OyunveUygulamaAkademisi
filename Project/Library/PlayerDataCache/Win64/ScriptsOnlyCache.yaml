@@ -10,6 +10,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.IK.IKEditorManager
     - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
@@ -25,13 +26,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
-    UnityEditor.Graphs.dll:
-    - UnityEditor.Graphs.AnimationBlendTree.Graph
-    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
-    - UnityEditor.Graphs.AnimationStateMachine.Graph
-    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -80,35 +74,35 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 624}
+      Script: {instanceID: 650}
     - Class: 114
-      Script: {instanceID: 1520}
+      Script: {instanceID: 1546}
     - Class: 114
-      Script: {instanceID: 1838}
+      Script: {instanceID: 1864}
     - Class: 114
-      Script: {instanceID: 2244}
+      Script: {instanceID: 1870}
     - Class: 114
-      Script: {instanceID: 2680}
+      Script: {instanceID: 2272}
     - Class: 114
-      Script: {instanceID: 2852}
+      Script: {instanceID: 2708}
     - Class: 114
-      Script: {instanceID: 2902}
+      Script: {instanceID: 2880}
     - Class: 114
-      Script: {instanceID: 3088}
+      Script: {instanceID: 2930}
     - Class: 114
-      Script: {instanceID: 3336}
+      Script: {instanceID: 3116}
     - Class: 114
-      Script: {instanceID: 3456}
+      Script: {instanceID: 3364}
     - Class: 114
-      Script: {instanceID: 4856}
+      Script: {instanceID: 3484}
     - Class: 114
-      Script: {instanceID: 5252}
+      Script: {instanceID: 4884}
     - Class: 114
-      Script: {instanceID: 5682}
+      Script: {instanceID: 5280}
     - Class: 114
-      Script: {instanceID: 5828}
+      Script: {instanceID: 5710}
     - Class: 114
-      Script: {instanceID: 32032}
+      Script: {instanceID: 5856}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -116,6 +110,10 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 212
       Script: {instanceID: 0}
@@ -214,6 +212,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneManager
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -658,13 +662,7 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: camera
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SceneManager
   platform: 19
   scenePathNames:
   - Assets/Scenes/main.unity
-  playerPath: C:/Users/Asus/Desktop/Game/Game Standalone/Girifit.exe
+  playerPath: C:/Users/Asus/Desktop/Game/Project/Girifit.exe
