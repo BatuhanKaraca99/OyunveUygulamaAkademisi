@@ -5,7 +5,7 @@ Takım İsmi
 
 | Ürün İle İlgili Bilgiler |
 | -------------|
-|2d,Top-Down-Rpg, Sıra tabanlı|
+|2d,Top-Down-Rpg|
 
 | Takım Elemanları | Rolü |
 | ------------- | ------------- |
