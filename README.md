@@ -1,5 +1,5 @@
 # Oyun ve Uygulama Akademisi
-**Oyun ve Uygulama Akademisi Projesi** </br>
+**Oyun ve Uygulama Akademisi Bootcamp Projesi** </br>
 Takım İsmi   
 **Takım - 80 "Girift"**
 
