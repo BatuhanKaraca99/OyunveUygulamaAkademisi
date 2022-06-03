@@ -107,6 +107,7 @@ Kararsız kalınan bazı durumlar takımı geriye attığı için çalışmalar 
 Ürün Durumu - Ekran görüntüleri:</br>
 </br>
 ![ekran_alintisi](https://user-images.githubusercontent.com/47457138/171844893-49422107-6876-404c-88de-cab84d6fe5a6.PNG)
+![Ekran Alıntısı2](https://user-images.githubusercontent.com/47457138/171858232-6dd4b297-e535-43bb-bfb2-06be94050d08.PNG)
 Oyun içi durumlar 1 :https://user-images.githubusercontent.com/47457138/171734117-b51edceb-89e0-4bad-820e-e9ae860bee03.mp4</br>
 Oyun içi durumlar 2: https://user-images.githubusercontent.com/47457138/171740537-49ff5ba9-5246-4bd4-b825-287564991069.mp4</br>
 ### Sprint Retrospective</br>
