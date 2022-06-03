@@ -99,7 +99,7 @@ Kararsız kalınan bazı durumlar takımı geriye attığı için çalışmalar 
 *Oyundaki karaktere animasyon eklendi ve yürüme ayarları yapıldı.</br>
 *Oyunun releaseleri çıkarıldı.</br>
 *Oyuna ses ve müzik eklendi.</br>
-
+*Oyuna UI,Text,Butonlar eklendi
 ## Daily Scrum </br> 
 *En iyi Sprint dönemimiz bu dönemdi.Çünkü fiziksel olarak bir proje gerçekleştirebildik.Hataları tespit ederek düzeltmeye çalışıyoruz.
 
