@@ -32,6 +32,7 @@ Gantt Şeması(Güncellenecek)</br>
 [Gantt Grifit.xlsx](https://github.com/BatuhanKaraca99/OyunveUygulamaAkademisi/files/8557086/Gantt.Grifit.xlsx)</br>
 Takım-80 Drive Linki: https://drive.google.com/drive/folders/1AAkkTASfU06M7Ya3_8ZXa0cLd_LZ-QEj </br>
 
+https://user-images.githubusercontent.com/47457138/171872886-e82018df-e153-4584-87ca-af81276a740b.mp4
 
 # Sprint 1</br>
 *Discord üzerinden ilk toplantı yapıldı.</br>
