@@ -109,3 +109,4 @@ Kararsız kalınan bazı durumlar takımı geriye attığı için çalışmalar 
 Oyun içi durumlar 1 :https://user-images.githubusercontent.com/47457138/171734117-b51edceb-89e0-4bad-820e-e9ae860bee03.mp4</br>
 Oyun içi durumlar 2: https://user-images.githubusercontent.com/47457138/171740537-49ff5ba9-5246-4bd4-b825-287564991069.mp4</br>
 ### Sprint Retrospective</br>
+*Hazır assetler kullanmanın sıkıntılı yanlarını görmüş olduk.Düzgün bölümlemelerinin yapılmaması görüntü konusunda biraz bozulmalara yol açtı.İlk oyun tecrübemiz olduğu için bu tecrübeleri edinmemizin bizim zararımızdan çok faydamıza olduğunu düşünüyoruz.
