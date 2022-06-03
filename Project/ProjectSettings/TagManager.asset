@@ -9,7 +9,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - obstacle
@@ -42,12 +42,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 1784997547
+    locked: 0
+  - name: Engel
+    uniqueID: 3649619841
+    locked: 0
   - name: Arkaplan
     uniqueID: 867097939
     locked: 0
   - name: Zemin
     uniqueID: 2692550637
-    locked: 0
-  - name: Engel
-    uniqueID: 3649619841
     locked: 0

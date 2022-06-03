@@ -11,6 +11,12 @@ public class player : MonoBehaviour
     public float x;
     public float y;
     AudioSource audioData;
+    public void OnTriggerEnter(Collider other)
+    {
+        moveDelta.x = moveDelta.x * -1;
+        moveDelta.y = moveDelta.y * -1;
+
+    }
     // Start is called before the first frame update
     private void Start()
     {
@@ -45,9 +51,9 @@ public class player : MonoBehaviour
             transform.localScale = new Vector3(-1, 1, 1);
             audioData.Play(0);
         }
-
+      
         //Move
-        transform.Translate(moveDelta * Time.deltaTime*2);
-
+        transform.Translate(moveDelta * Time.deltaTime * 2);
     }
+    
 }
