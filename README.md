@@ -95,9 +95,10 @@ Sprint Review katılımcıları: Batuhan Karaca, Neslişah Öztürk, Simay Karab
 Kararsız kalınan bazı durumlar takımı geriye attığı için çalışmalar yavaşladı. Bu neticede, ilerideki sprint daha odaklı çalışabilmek adına motivelendik.  
 </br>
 # Sprint 3</br>
-*Oyunun haritası geliştirildi.</br>
+*Oyunun haritası geliştirildi ve biraz daha zenginleştirildi.</br>
 *Oyundaki karaktere animasyon eklendi ve yürüme ayarları yapıldı.</br>
 *Oyunun releaseleri çıkarıldı.</br>
+*Oyuna ses ve müzik eklendir.</br>
 
 ## Daily Scrum </br> 
 *En iyi Sprint dönemimiz bu dönemdi.Çünkü fiziksel olarak bir proje gerçekleştirebildik.Hataları tespit ederek düzeltmeye çalışıyoruz.
