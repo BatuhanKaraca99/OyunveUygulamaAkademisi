@@ -6,7 +6,7 @@ Takım İsmi
 | Ürün İle İlgili Bilgiler |
 | -------------|
 |2d,Top-Down-Rpg|
-Windows
+Windows(PC)
 
 | Takım Elemanları | Rolü |
 | ------------- | ------------- |
