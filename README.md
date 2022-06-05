@@ -25,6 +25,7 @@ Rpgmaker tipi oyunseverler ve ağır tema hikayesi içeren oyunları sevenler</b
 Girift
 
 ## Ürün Açıklaması</br>
+[Eren Bacaksız - Oyun Hikayesi.docx](https://github.com/BatuhanKaraca99/OyunveUygulamaAkademisi/files/8840158/Eren.Bacaksiz.-.Oyun.Hikayesi.docx)
 
 <details><summary>Ürün Özellikleri</summary>
 <p>
